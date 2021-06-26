@@ -42,7 +42,7 @@ You should now see a QR code that should be scanned using the expo go app to run
 
 ## Screenshots
 
-![Screenshot 1](https://ibb.co/YjdG6ZW)
-![Screenshot 2](https://ibb.co/7jD2mvm)
-![Screenshot 3](https://ibb.co/Dz1gNB0)
-![Screenshot 4](https://ibb.co/3WR8KjZ)
+![Screenshot 1](https://github.com/vsifiwe/DUKA-Challenge-Mobile-TODO/blob/main/Screenshots/1.jpeg)
+![Screenshot 2](https://github.com/vsifiwe/DUKA-Challenge-Mobile-TODO/blob/main/Screenshots/2.jpeg)
+![Screenshot 3](https://github.com/vsifiwe/DUKA-Challenge-Mobile-TODO/blob/main/Screenshots/3.jpeg)
+![Screenshot 4](https://github.com/vsifiwe/DUKA-Challenge-Mobile-TODO/blob/main/Screenshots/4.jpeg)
