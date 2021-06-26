@@ -39,3 +39,10 @@ or if you use yarn
 then run `yarn start` or `expo start`
 
 You should now see a QR code that should be scanned using the expo go app to run Duka TODO
+
+## Screenshots
+
+![Screenshot 1](https://ibb.co/YjdG6ZW)
+![Screenshot 2](https://ibb.co/7jD2mvm)
+![Screenshot 3](https://ibb.co/Dz1gNB0)
+![Screenshot 4](https://ibb.co/3WR8KjZ)
